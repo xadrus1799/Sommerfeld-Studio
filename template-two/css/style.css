@@ -133,7 +133,7 @@ li{
       color: #f1d4d4;
       font-size: 20px; 
       font-family: montserrat;
-      background:#790c5a;
+      background:#000000;
       z-index: 10;
       display: flex;
       align-items: center;
@@ -168,9 +168,9 @@ li{
     font-family: inherit;
     z-index: 5;
     font-weight: inherit;
-    color: #f1d4d4;
+    color: #ad0961;
     overflow: hidden;
-    -webkit-text-stroke: 0px #f1d4d4;
+    -webkit-text-stroke: 0px #ad0961;
     animation: loadertext 12s cubic-bezier(0.84, 0, 0.08, 0.99)  ;
     animation-iteration-count: 1;
 }

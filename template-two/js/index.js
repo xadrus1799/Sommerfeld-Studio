@@ -144,7 +144,7 @@ new Swiper(' .swiper-container', {
         opacity:1,
         background:'#ad0961',
         border:'none',
-        innerHTML:'view&nbsp;gallery',
+        innerHTML:'öffne&nbsp;gallery',
         top:'-50px',
         left:'-50px',
        })
